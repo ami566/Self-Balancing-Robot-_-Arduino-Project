@@ -16,7 +16,7 @@ PID_v1.h,
 LMotorController.h
 
 ## Wiring
-The wiring diagram for this project is not provided in the code. Please refer to your specific hardware and its datasheets to ensure proper wiring.
+<img src="Screenshot 2023-03-27 180602.png" width="300" height="350">
 
 ## Usage
 Upload the code to your Arduino board and ensure the board is properly wired to the sensors and motor controller. The robot should automatically balance itself using the PID controller.
